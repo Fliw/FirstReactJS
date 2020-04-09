@@ -1,5 +1,5 @@
 import React from 'react';
-import './bootstrap/css/bootstrap.min.css';
+import '../bootstrap/css/bootstrap.min.css';
 
 function header(){
     return(

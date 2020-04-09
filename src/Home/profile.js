@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfileImage from './images/john.jfif';
+import ProfileImage from '../images/john.jfif';
 import './custom.css';
 function profile(){
     return(

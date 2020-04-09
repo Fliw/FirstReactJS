@@ -1,9 +1,9 @@
 import React from 'react';
-import './custom.css';
-import Header from './header.js';
-import Profile from './profile.js';
-import Skill from './skill.js';
-import Footer from './footer.js';
+import './Home/custom.css';
+import Header from './Home/header.js';
+import Profile from './Home/profile.js';
+import Skill from './Home/skill.js';
+import Footer from './Home/footer.js';
 function App() {
   return (
     <div className="App">

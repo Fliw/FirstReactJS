@@ -1,7 +1,7 @@
 import React from 'react';
-import game from './images/game.png';
-import coding from './images/coding.png';
-import tidur from './images/tidur.png';
+import game from '../images/game.png';
+import coding from '../images/coding.png';
+import tidur from '../images/tidur.png';
 function Card(props) {
     const Lists = [
         {
