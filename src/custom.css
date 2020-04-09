@@ -1,0 +1,27 @@
+.Tengah{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+media
+.ProfileImage{
+    margin-bottom: 10px;
+}
+.profileRow{
+    padding-bottom: 20px;
+    border-bottom: 3px gray solid;
+}
+.skill{
+    margin-bottom:30px;
+}
+.footer{
+    padding:10px;
+}
+.CV{
+    margin: 10px 0px 10px 0px;
+}
+@media screen and (max-width: 600px) {
+    .Tengah{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+}
